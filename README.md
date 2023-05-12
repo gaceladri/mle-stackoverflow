@@ -61,5 +61,3 @@ In the future, more tags can be included to make the model more versatile. Other
 ## Contact
 
 For any questions or suggestions, please feel free to reach out.
-
-*Note: This README is a template and should be edited to match the specifics of your project and setup.*
