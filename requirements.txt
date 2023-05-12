@@ -1,0 +1,12 @@
+transformers==4.29.1
+pandas==2.0.1
+jupyter==1.0.0
+datasets==2.12.0
+evaluate==0.4.0
+torch==2.0.1
+accelerate==0.19.0
+scikit-learn==1.2.2
+tensorboardX==2.6
+tensorboard==2.13.0
+optuna==3.1.1
+sentencepiece==0.1.99
